@@ -17,7 +17,8 @@ La contingence historique peut modifier la structure d’une communauté par eff
 
 Dans le cadre d'un projet de restauration écologique de pelouses sèches en Haute-Durance (cf thèse d'Aure Durbecq : https://tel.archives-ouvertes.fr/tel-03638021), nous avions déjà mis en place une expérimentation *in situ* en testant l'ordre d'arrivée de deux groupes d'espèces : un groupe d'espèces subordonnées, un groupe d'espèces dominante.
 
-Le milieu de référence :
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/Photos_News/reference.png)
+
 
 Les espèces du groupe des subordonnées :
 
