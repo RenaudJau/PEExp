@@ -1,5 +1,5 @@
 ---
-title: "Expérimentation"
+title: ""
 output: 
   html_document:
     keep_md: yes
@@ -21,11 +21,11 @@ Dans le cadre d'un projet de restauration écologique de pelouses sèches en Hau
 
 Les espèces du groupe des subordonnées :
 
-![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/subordonnees.jpg)
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/subordonnees.png)
 
 Les espèces du groupe des dominantes :
 
-![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/dominantes.jpg)
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/dominantes.png)
 
 Nous avions 4 modalités :
 
@@ -47,15 +47,15 @@ Nous émettons l’hypothèse que l’occurrence des effets de priorité entre d
 
 * de l’environnement et des optima écologiques des deux espèces 
 
-![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/mesure_dist.jpg)
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/mesure_dist.png)
 
 * de l’asymétrie des interactions biotiques entre les deux espèces
 
-![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/mesure_inter.jpg)
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/mesure_inter.png)
 
 Avec une occurence des effets de priorité lorsque l'asymétrie et l'équidistance aux optima écologiques sont relativement modérés mais non nuls :
 
-![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/hyp_gene.jpg)
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/hyp_gene.png)
 
 ### Les mesures dont nous aurons besoin :
 
@@ -73,22 +73,30 @@ Si on fait quelques répétitions, on arrive vite à un grand nombre de pots : 7
 
 La quantité de graine a été pesée pour chaque pot, et disposée dans des enveloppes prêtes à être semées le jour J :
 
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/pesee.png)
+
 ### Etape 2 : préparation des substrats
 
-Le mélange des substrats a été réalisé à l'aide d'une balance, d'une bétonnière et d'un peu d'huile de coude. Initialement prévue sur des tables, nous nous sommes vite rendu compte que le poids total serait un problème pour l'équilibre de ces tables.. Afin d'éviter toute catastrophe, les pots onté été redescendus avant le semis.
+Le mélange des substrats a été réalisé à l'aide d'une bétonnière et d'un peu d'huile de coude. Initialement prévue sur des tables, nous nous sommes vite rendu compte que le poids total serait un problème pour l'équilibre de ces tables.. Afin d'éviter toute catastrophe, les pots onté été redescendus avant le semis.
+
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/substrat.png)
+
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/ausol.png)
 
 ### Etape 3 : Semis n°1
 
 Immédiatement après le premier semis, arrosage et protection contre les oiseaux ont été mis en places :
 
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/semis.png)
+
 ### Etape 4 : On regarde les plantes pousser
 
-photos
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/suivi1.png)
 
 En essayant de ne pas piéger les voisins dans les filets..
 
 Et en testant des mesures du recouvrement de végétation :
-![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/essai.png)
+
 
 *Suite au prochain épisode*
 
