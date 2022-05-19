@@ -1,3 +1,11 @@
+---
+title: "Expé"
+output: 
+  html_document:
+    keep_md: yes
+editor_options: 
+  chunk_output_type: console
+---
 
 # Quels éléments favorisent l’occurrence d’effets de priorité lors de la restauration par semis d’espèces ?
 
