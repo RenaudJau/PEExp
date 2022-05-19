@@ -21,7 +21,11 @@ Dans le cadre d'un projet de restauration écologique de pelouses sèches en Hau
 
 Les espèces du groupe des subordonnées :
 
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/subordonnees.jpg)
+
 Les espèces du groupe des dominantes :
+
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/dominantes.jpg)
 
 Nous avions 4 modalités :
 
@@ -33,7 +37,7 @@ Nous avions 4 modalités :
 
 * les subordonnées l'année 1 et les dominantes l'année 2
 
-Photo expérimentation :
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/plan_exp.jpg)
 
 Avec comme hypothèse générale que le fait de semer les subordonnées en premier permettrait de faire coexister l'ensemble des espèces. Derrière cette hypothèse générale, nous souhaitions comprendre plus en détails les éléments qui déterminaient l'occurence ou non des effets de priorité. Pour cela il fallait multiplier les modalités de semis : espèces seules ou en interaction, semis simultané ou en décalé, conditions écologiques... Même en réduisant les répétitions, faire cette expérimentation *in situ* aurait néccessité une surface (et des temps de maintien de l'expérimentation) beaucoup trop grands ! D'où l'idée de passer à une expérimentation en mésocosme.
 
@@ -43,15 +47,15 @@ Nous émettons l’hypothèse que l’occurrence des effets de priorité entre d
 
 * de l’environnement et des optima écologiques des deux espèces 
 
-Mesures de la distance optimum
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/mesure_dist.jpg)
 
 * de l’asymétrie des interactions biotiques entre les deux espèces
 
-Mesures de la distance à l'optimum
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/mesure_inter.jpg)
 
 Avec une occurence des effets de priorité lorsque l'asymétrie et l'équidistance aux optima écologiques sont relativement modérés mais non nuls :
 
-Schéma hypothèse
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/hyp_gene.jpg)
 
 ### Les mesures dont nous aurons besoin :
 
