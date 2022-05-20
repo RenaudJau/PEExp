@@ -1,13 +1,13 @@
 
 # Quels éléments favorisent l’occurrence d’effets de priorité lors de la restauration par semis d’espèces ?
 
-Voici une page donne quelques nouvelles de l'expérimentation PEExp présentée dans le poster https://github.com/RenaudJau/PEExp/blob/main/Poster_ECOVEG_PEExp.pdf
+Voici une page qui donne quelques nouvelles de l'expérimentation PEExp présentée dans le [poster](https://github.com/RenaudJau/PEExp/blob/main/Poster_ECOVEG_PEExp.pdf) présenté à [ECOVEG](https://www.gembloux.ulg.ac.be/ecoveg15/).
 
-### Historique in situ
+### Historique *in situ*
 
 La contingence historique peut modifier la structure d’une communauté par effet de priorité. Il s’agit du fait qu’une espèce exerce un effet compétitif/facilitant causé par son arrivée précoce dans la communauté. Cet effet pourrait être utilisé en restauration : par exemple semer deux espèces dans un ordre déterminé pour en favoriser une. Mais dans quelles conditions ces effets de priorité s’exercent-t-ils ?
 
-Dans le cadre d'un projet de restauration écologique de pelouses sèches en Haute-Durance (cf thèse d'Aure Durbecq : https://tel.archives-ouvertes.fr/tel-03638021), nous avions déjà mis en place une expérimentation *in situ* en testant l'ordre d'arrivée de deux groupes d'espèces : un groupe d'espèces subordonnées, un groupe d'espèces dominante.
+Dans le cadre d'un projet de restauration écologique de pelouses sèches en Haute-Durance (cf [thèse d'Aure Durbecq](https://tel.archives-ouvertes.fr/tel-03638021), nous avions déjà mis en place une expérimentation *in situ* en testant l'ordre d'arrivée de deux groupes d'espèces : un groupe d'espèces subordonnées, un groupe d'espèces dominantes.
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/reference.jpg)
 
@@ -19,7 +19,7 @@ Les espèces du groupe des dominantes :
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/dominantes.png)
 
-Nous avions 4 modalités :
+Nous avions 4 modalités qui consistaient à semer :
 
 * toutes les espèces en même temps la première année
 
@@ -39,13 +39,19 @@ Nous émettons l’hypothèse que l’occurrence des effets de priorité entre d
 
 * de l’environnement et des optima écologiques des deux espèces 
 
+*En semant en monoculture chacune des espèces sur un gradient de conditions écologiques, il est possible de déterminer la "distance à l'optimum" : autrement dit le pourcentage de biomasse perdu par rapport à des conditions optimales.*
+
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/mesure_dist.png)
 
 * de l’asymétrie des interactions biotiques entre les deux espèces
 
+*En semant en monoculture et en interaction les espèces A et B on peut dans un premier temps mesurer le RII (Relative Interaction Index : 1 = facilitation obligatoire ; 0 = pas d'interaction ; -1 = exclusion compétitive) des deux espèces et dans un deuxième temps mesurer l'écart entre ces RII : cela donne l'asymétrie de l'interaction entre les 2 espèces.*
+
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/mesure_inter.png)
 
 Avec une occurence des effets de priorité lorsque l'asymétrie et l'équidistance aux optima écologiques sont relativement modérés mais non nuls :
+
+*Après avoir mesuré l'asymétrie d'interaction entre les espèces, puis la distance à l'optimum de chaque espèce, il est possible de replacer chaque "trinome" (espèce A - espèce B - environnement) dans le cadre des hypothèses suivants. Il "suffit" enfin de mesurer l'occurence d'effets de priorité pour tester ces hypothèses.*
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/hyp_gene.png)
 
@@ -55,21 +61,21 @@ Pour tester ce cadre d'hypothèses, nous aurons besoin de connaître pour 2 (gro
 
 * la distance à l'optimum : il faut donc faire pousser les espèces en monoculture sur un gradient de conditions écologiques (ici la proportion terreau / (sable+gravier) qui est relative à la quantité de nutriments et de rétention en eau du substrat)
 * l'asymétrie des interactions : il faut donc faire pousser A et B en monoculture et en interaction.
-* l'occurence d'effet de priorité : pour cela, il faut semer A et B simultanément et en décalé, puis comparer leurs biomasses
+* l'occurence d'effet de priorité : pour cela, il faut semer A et B simultanément et en décalé, puis comparer les biomasses quand elles arrivent simultanément, en premier ou en second.
 
-Nous avons souhaité chaque espèce individuellement, mise en relation avec le groupe d'espèce dont elle ne fait pas partie. Par exemple : *Plantago lanceolata* est une subordonnées, elle sera donc mis en interaction avec les dominantes.
+Nous avons souhaité mesurer le comportement de chaque espèce individuellement, mise en relation avec le groupe d'espèce dont elle ne fait pas partie. Par exemple : *Plantago lanceolata* est une subordonnée, elle sera donc mise en interaction avec les dominantes.
 
 Si on fait quelques répétitions, on arrive vite à un grand nombre de pots : 736 pour être exact !
 
 ### Etape 1 : pesée des graines
 
-La quantité de graine a été pesée pour chaque pot, et disposée dans des enveloppes prêtes à être semées le jour J :
+La quantité de graines a été pesée pour chaque pot, et disposée dans des enveloppes prêtes à être semées le jour J :
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/pesee.png)
 
 ### Etape 2 : préparation des substrats
 
-Le mélange des substrats a été réalisé à l'aide d'une bétonnière et d'un peu d'huile de coude. Initialement prévue sur des tables, nous nous sommes vite rendu compte que le poids total serait un problème pour l'équilibre de ces tables.. Afin d'éviter toute catastrophe, les pots onté été redescendus avant le semis.
+Le mélange des substrats a été réalisé à l'aide d'une bétonnière et d'un peu d'huile de coude. Initialement prévue sur des tables, nous nous sommes vite rendu compte que le poids total serait un problème pour l'équilibre de ces tables.. Afin d'éviter toute catastrophe, les pots ont été redescendus avant le semis.
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/substrat.png)
 
@@ -77,20 +83,17 @@ Le mélange des substrats a été réalisé à l'aide d'une bétonnière et d'un
 
 ### Etape 3 : Semis n°1
 
-Immédiatement après le premier semis, arrosage et protection contre les oiseaux ont été mis en places :
+Immédiatement après le premier semis, arrosage et protection contre les oiseaux ont été mis en place :
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/semis.png)
 
 ### Etape 4 : On regarde les plantes pousser
 
+En essayant de ne pas piéger les voisins dans les filets.. Et en testant des mesures du recouvrement de végétation..
+
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/suivi1.png)
 
-En essayant de ne pas piéger les voisins dans les filets..
-
-Et en testant des mesures du recouvrement de végétation :
-
-
-*Suite au prochain épisode*
+*Suite(s) au prochain(s) épisode(s)*
 
 
 
