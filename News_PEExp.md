@@ -1,3 +1,11 @@
+---
+title: "Expé"
+output: 
+  html_document:
+    keep_md: yes
+editor_options: 
+  chunk_output_type: console
+---
 
 # Quels éléments favorisent l’occurrence d’effets de priorité lors de la restauration par semis d’espèces ?
 
@@ -93,8 +101,8 @@ En essayant de ne pas piéger les voisins dans les filets.. Et en testant des me
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/suivi1.png)
 
-*Suite au prochain épisode*
+*Suite(s) au prochain(s) épisode(s)*
 
-
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/images_pretest_750.jpg)
 
 
