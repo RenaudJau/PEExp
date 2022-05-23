@@ -94,7 +94,7 @@ Aussi, nous avons à notre tour, envisagé de mesurer ces traits racinaires.
 
 Malheureusement les conclusions tirées des pré-tests sont sans appel : 
 
--procédé beaucoup trop long pour une expérimentation avec 736 pots (entre 10 et 20mintes par pot pour isoler les racines)
+-procédé beaucoup trop long pour une expérimentation avec 736 pots (entre 10 et 20 minutes par pot pour isoler les racines)
 
 -impossibilité d’isoler les racines de chacune des espèces séparément
 
@@ -136,11 +136,16 @@ Immédiatement après le premier semis, arrosage et protection contre les oiseau
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/semis.png)
 
-### Depuis le 20 avril : On regarde les plantes pousser
+### Depuis le 20 avril : On regarde les plantes pousser !
 
-En essayant de ne pas piéger les voisins dans les filets.. Et en testant des mesures du recouvrement de végétation..
+En essayant de ne pas piéger les voisins dans les filets... Et en testant des mesures du recouvrement de végétation...
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/suivi1.png)
+
+Nous avons réalisé plusieur essais de passage de drône (avec ou sans ailes) jusquà obtenir des résultats satisfaisant en le faisant finalement voler à 6m au dessus de nos pots. Voici le résultat obtenues à partir des images prises par le drone :
+
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/nuage_point_gps_750.jjpg)
+
 
 *Suite(s) au prochain(s) épisode(s)*
 
