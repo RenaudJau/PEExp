@@ -92,7 +92,7 @@ Nous avonc donc choisi les substrats 3 et 8 pour notre gradient de stress final:
 
 **Choix des traits mesurés**
 
-Si la plupart des études sur le sujet s’intéressent principalement aux traits aériens, certaines se penchent également sur les manifestations des effets de priorité au niveau racinaire et mettent en évidence que la biomasse souterraine est significativement affectée (cf les articles suivants : [Weidlich et al., 2017](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12829?casa_token=kc3yBdODZggAAAAA%3AEcz2r4sKcmmT2esZP2lm53gz_9m5ftFgSNThObu7t2ewz_bHgwVCki4J2iXdMsPyxkeeZrs5gut4ZV4NaQ), [Hess et al., 2022](https://reader.elsevier.com/reader/sd/pii/S1439179122000044?token=3048582DC34D54945B675C976CBBFEE41874DC6625D96E56B3E75B66475E3CD842B671C7E58600B6FD0D20905D3BBEB6&originRegion=eu-west-1&originCreation=20220523165611), [Alonso-Crespo et al., 2022](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.08886))
+Si la plupart des études sur le sujet s’intéressent principalement aux traits aériens, certaines se penchent également sur les manifestations des effets de priorité au niveau racinaire et mettent en évidence que la biomasse souterraine est significativement affectée (cf les articles suivants : [Weidlich et al., 2017](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12829?casa_token=kc3yBdODZggAAAAA%3AEcz2r4sKcmmT2esZP2lm53gz_9m5ftFgSNThObu7t2ewz_bHgwVCki4J2iXdMsPyxkeeZrs5gut4ZV4NaQ), [Hess et al., 2022](https://reader.elsevier.com/reader/sd/pii/S1439179122000044?token=3048582DC34D54945B675C976CBBFEE41874DC6625D96E56B3E75B66475E3CD842B671C7E58600B6FD0D20905D3BBEB6&originRegion=eu-west-1&originCreation=20220523165611), [Alonso-Crespo et al., 2022](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.08886)).
 
 Aussi, nous avons à notre tour, envisagé de mesurer ces traits racinaires.
 
@@ -135,7 +135,7 @@ En essayant de ne pas piéger les voisins dans les filets... Et en testant des m
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/suivi1.png)
 
-Nous avons réalisé plusieur essais de passage de drône (avec ou sans ailes) jusquà obtenir des résultats satisfaisant en le faisant finalement voler à 6m au dessus de nos pots. Voici le résultat obtenues à partir des images prises par le drone :
+Afin de tenter d'obtenir des mesures de biomasse par télédétection (NDVI) ou des mesures de hauteurs de la végétation (phtogramétrie) Nous avons réalisé plusieurs essais de passages de drône (avec ou sans hélices) jusqu'à obtenir des résultats satisfaisants en le faisant finalement voler à 6m au dessus de nos pots. Voici quelques résultats bruts obtenus à partir des images prises par le drone :
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/nuage_point_gps_750.jjpg)
 
