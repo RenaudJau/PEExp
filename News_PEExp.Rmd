@@ -57,7 +57,7 @@ Nous émettons l’hypothèse que l’occurrence des effets de priorité entre d
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/mesure_inter.png)
 
-Avec une occurence des effets de priorité lorsque l'asymétrie et l'équidistance aux optima écologiques sont relativement modérés mais non nuls :
+Avec une occurence des effets de priorité lorsque l'asymétrie et l'équidistance aux optima écologiques sont relativement modérés mais non nuls (pour plus de détails sur la forme des différentes zones : [voir complément ici](https://github.com/RenaudJau/PEExp/blob/main/Hypotheses/Effets_priorite_hypotheses.md)) :
 
 *Après avoir mesuré l'asymétrie d'interaction entre les espèces, puis la distance à l'optimum de chaque espèce, il est possible de replacer chaque "trinome" (espèce A - espèce B - environnement) dans le cadre des hypothèses suivants. Il "suffit" enfin de mesurer l'occurence d'effets de priorité pour tester ces hypothèses.*
 
