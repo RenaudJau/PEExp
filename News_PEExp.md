@@ -137,8 +137,9 @@ En essayant de ne pas piéger les voisins dans les filets... Et en testant des m
 
 Afin de tenter d'obtenir des mesures de biomasse par télédétection (NDVI) ou des mesures de hauteurs de la végétation (phtogramétrie) Nous avons réalisé plusieurs essais de passages de drône (avec ou sans hélices) jusqu'à obtenir des résultats satisfaisants en le faisant finalement voler à 6m au dessus de nos pots. Voici quelques résultats bruts obtenus à partir des images prises par le drone :
 
-![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/nuage_point_gps_750.jjpg)
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/drone_ndvi_ri_750.jpg)
 
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/nuage_point_gps_750.jpg)
 
 *Suite(s) au prochain(s) épisode(s)*
 
