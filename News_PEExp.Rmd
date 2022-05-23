@@ -85,15 +85,18 @@ Nous avonc donc choisi le substrat 3 et 8 pour notre gradient de stress final: D
 
 *Choix des traits mesurés*
 
-Si la plupart des études sur le sujet s’intéressent principalement aux traits aériens, certaines se penchent également sur les manifestations des effets de priorité au niveau racinaire et mettent en évidence que la biomasse souterraine est significativement affectée (cf les articles suivants : [1](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12829?casa_token=kc3yBdODZggAAAAA%3AEcz2r4sKcmmT2esZP2lm53gz_9m5ftFgSNThObu7t2ewz_bHgwVCki4J2iXdMsPyxkeeZrs5gut4ZV4NaQ),[2]5https://reader.elsevier.com/reader/sd/pii/S1439179122000044?token=3048582DC34D54945B675C976CBBFEE41874DC6625D96E56B3E75B66475E3CD842B671C7E58600B6FD0D20905D3BBEB6&originRegion=eu-west-1&originCreation=20220523165611), [3]https://onlinelibrary.wiley.com/doi/full/10.1111/oik.08886)
+Si la plupart des études sur le sujet s’intéressent principalement aux traits aériens, certaines se penchent également sur les manifestations des effets de priorité au niveau racinaire et mettent en évidence que la biomasse souterraine est significativement affectée (cf les articles suivants : [1](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12829?casa_token=kc3yBdODZggAAAAA%3AEcz2r4sKcmmT2esZP2lm53gz_9m5ftFgSNThObu7t2ewz_bHgwVCki4J2iXdMsPyxkeeZrs5gut4ZV4NaQ),[2](https://reader.elsevier.com/reader/sd/pii/S1439179122000044?token=3048582DC34D54945B675C976CBBFEE41874DC6625D96E56B3E75B66475E3CD842B671C7E58600B6FD0D20905D3BBEB6&originRegion=eu-west-1&originCreation=20220523165611), [3](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.08886)
 Aussi, nous avons à notre tour, envisagé de mesurer ces traits racinaires.
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/testracine_750.jpg)
 
 
 Malheureusement les conclusions tirées des pré-tests sont sans appel : 
+
 -procédé beaucoup trop long pour une expérimentation avec 736 pots (entre 10 et 20mintes par pot pour isoler les racines)
+
 -impossibilité d’isoler les racines de chacune des espèces séparément
+
 -déchirements au niveau des radicelles risquant d’induire des biais dans les mesures de biomasse racinaire
 
 Bref, le design de notre expérimentation ne nous permettra malheureusement pas de mesurer la biomasse racinaire ! Pour une prochaine expérimentation peut-être 😊
