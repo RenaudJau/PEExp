@@ -62,17 +62,36 @@ Avec une occurence des effets de priorité lorsque l'asymétrie et l'équidistan
 *Après avoir mesuré l'asymétrie d'interaction entre les espèces, puis la distance à l'optimum de chaque espèce, il est possible de replacer chaque "trinome" (espèce A - espèce B - environnement) dans le cadre des hypothèses suivants. Il "suffit" enfin de mesurer l'occurence d'effets de priorité pour tester ces hypothèses.*
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/hyp_gene.png)
+
 ### Les tests préliminaires mis en place :
+
+*Choix du gradient de stress* 
 
 Pour choisir le gradient de stress adapté nous avons mis à germer les espèces dans 8 types de substrats différents :
 Allant du substrat 1, le moins fertile et le moins rétenteur en eau avec 1:9 de terreau et 4,5:9 de sable et de graviers; jusqu’au substrat 9, le plus fertile et le plus rétenteur en eau avec 8:9 de terreau et 0,5:9 de sable et de graviers.
 
-![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/pretest_750.jpg)
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/pretest2_750.jpg)
 
 Après avoir semé, arrosé, mis au germinateur et obtenu une croissance suffisante, nous avons récolté la biomasse aérienne.
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/images_pretest_750.jpg)
 
+Résultats du test préliminaire :
+
+Les relevés de la biomasse aérienne montrent que les espèces sont en mesure de croître dans tous les types de substrat. Ensuite, ils semblent qu'effectivement les substrats avec une plus forte proportion de terreau, sont plus favorables à la croissance des six espèces étudiées.
+Nous avonc donc choisi le substrat 3 et 8 pour notre gradient de stress final: Deux types de sols dans lesquels les espèces peuvent se développer mais qui sont suffisamment distincts pour induire des réponses potentiellement différentes chez les espèces étudiées.
+
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/result_prem_biomasse_750.png)
+
+*Choix des traits mesurés*
+
+Si la plupart des études sur le sujet s’intéressent principalement aux traits aériens, de récentes études se penchent également sur les manifestations des effets de priorité au niveau racinaires. Certaines mettent en évidence des effets significatifs  
+Aussi, nous avons envisager de mesurer à notre tour ces traits racinaires.
+Malheureusement les conclusions tirées des pré-tests sont sans appel : 
+-procédé beaucoup trop long (entre 10 et 20mintes par pot pour isoler les racines)
+-impossibilité d’isoler les espèces entre elles
+-déchirements au niveau des radicelles qui risquent d’induire des biais dans les mesures de biomasse racinaire
+Bref, le design de notre expérimentation ne nous permettra malheureusement pas de mesurer également la biomasse racinaire !
 
 
 ### Les mesures dont nous aurons besoin :
