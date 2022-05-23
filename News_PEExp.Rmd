@@ -62,6 +62,18 @@ Avec une occurence des effets de priorité lorsque l'asymétrie et l'équidistan
 *Après avoir mesuré l'asymétrie d'interaction entre les espèces, puis la distance à l'optimum de chaque espèce, il est possible de replacer chaque "trinome" (espèce A - espèce B - environnement) dans le cadre des hypothèses suivants. Il "suffit" enfin de mesurer l'occurence d'effets de priorité pour tester ces hypothèses.*
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/hyp_gene.png)
+### Les tests préliminaires mis en place :
+
+Pour choisir le gradient de stress adapté nous avons mis à germer les espèces dans 8 types de substrats différents :
+Allant du substrat 1, le moins fertile et le moins rétenteur en eau avec 1:9 de terreau et 4,5:9 de sable et de graviers; jusqu’au substrat 9, le plus fertile et le plus rétenteur en eau avec 8:9 de terreau et 0,5:9 de sable et de graviers.
+
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/pretest_750.jpg)
+
+Après avoir semé, arrosé, mis au germinateur et obtenu une croissance suffisante, nous avons récolté la biomasse aérienne.
+
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/images_pretest_750.jpg)
+
+
 
 ### Les mesures dont nous aurons besoin :
 
@@ -75,13 +87,13 @@ Nous avons souhaité mesurer le comportement de chaque espèce individuellement,
 
 Si on fait quelques répétitions, on arrive vite à un grand nombre de pots : 736 pour être exact !
 
-### Etape 1 : pesée des graines
+### Du 16 mars au 13 avril: pesée des graines
 
 La quantité de graines a été pesée pour chaque pot, et disposée dans des enveloppes prêtes à être semées le jour J :
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/pesee.png)
 
-### Etape 2 : préparation des substrats
+### Du 14 avril au 15 avril : préparation des substrats
 
 Le mélange des substrats a été réalisé à l'aide d'une bétonnière et d'un peu d'huile de coude. Initialement prévue sur des tables, nous nous sommes vite rendu compte que le poids total serait un problème pour l'équilibre de ces tables.. Afin d'éviter toute catastrophe, les pots ont été redescendus avant le semis.
 
@@ -89,20 +101,19 @@ Le mélange des substrats a été réalisé à l'aide d'une bétonnière et d'un
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/ausol.png)
 
-### Etape 3 : Semis n°1
+### Du 19 avril au 20 avril : Semis n°1
 
 Immédiatement après le premier semis, arrosage et protection contre les oiseaux ont été mis en place :
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/semis.png)
 
-### Etape 4 : On regarde les plantes pousser
+### Depuis le 20 avril : On regarde les plantes pousser
 
 En essayant de ne pas piéger les voisins dans les filets.. Et en testant des mesures du recouvrement de végétation..
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/suivi1.png)
 
 *Suite(s) au prochain(s) épisode(s)*
-
 
 
 
