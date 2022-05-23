@@ -1,12 +1,3 @@
----
-title: "Expé"
-output: 
-  html_document:
-    keep_md: yes
-editor_options: 
-  chunk_output_type: console
----
-
 # Quels éléments favorisent l’occurrence d’effets de priorité lors de la restauration par semis d’espèces ?
 
 Voici une page qui donne quelques nouvelles de l'expérimentation PEExp présentée dans le [poster](https://github.com/RenaudJau/PEExp/blob/main/Poster_ECOVEG_PEExp.pdf) présenté à [ECOVEG](https://www.gembloux.ulg.ac.be/ecoveg15/).
@@ -63,47 +54,6 @@ Avec une occurence des effets de priorité lorsque l'asymétrie et l'équidistan
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/hyp_gene.png)
 
-### Les tests préliminaires mis en place :
-
-*Choix du gradient de stress* 
-
-Pour choisir le gradient de stress adapté nous avons mis à germer les espèces dans 8 types de substrats différents :
-Allant du substrat 1, le moins fertile et le moins rétenteur en eau avec 1:9 de terreau et 4,5:9 de sable et de graviers; jusqu’au substrat 9, le plus fertile et le plus rétenteur en eau avec 8:9 de terreau et 0,5:9 de sable et de graviers.
-
-![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/pretest2_750.jpg)
-
-Après avoir semé, arrosé, mis au germinateur et obtenu une croissance suffisante, nous avons récolté la biomasse aérienne.
-
-![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/images_pretest_750.jpg)
-
-Résultats du test préliminaire :
-
-Les relevés de la biomasse aérienne montrent que les espèces sont en mesure de croître dans tous les types de substrat. Ensuite, ils semblent qu'effectivement les substrats avec une plus forte proportion de terreau, sont plus favorables à la croissance des six espèces étudiées.
-Nous avonc donc choisi le substrat 3 et 8 pour notre gradient de stress final: Deux types de sols dans lesquels les espèces peuvent se développer mais qui sont suffisamment distincts pour induire des réponses potentiellement différentes chez les espèces étudiées.
-
-![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/result_prem_biomasse_750.png)
-
-*Choix des traits mesurés*
-
-Si la plupart des études sur le sujet s’intéressent principalement aux traits aériens, certaines se penchent également sur les manifestations des effets de priorité au niveau racinaire et mettent en évidence que la biomasse souterraine est significativement affectée (cf les articles suivants : [1](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12829?casa_token=kc3yBdODZggAAAAA%3AEcz2r4sKcmmT2esZP2lm53gz_9m5ftFgSNThObu7t2ewz_bHgwVCki4J2iXdMsPyxkeeZrs5gut4ZV4NaQ),[2](https://reader.elsevier.com/reader/sd/pii/S1439179122000044?token=3048582DC34D54945B675C976CBBFEE41874DC6625D96E56B3E75B66475E3CD842B671C7E58600B6FD0D20905D3BBEB6&originRegion=eu-west-1&originCreation=20220523165611), [3](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.08886))
-
-Aussi, nous avons à notre tour, envisagé de mesurer ces traits racinaires.
-
-![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/testracine_750.jpg)
-
-
-Malheureusement les conclusions tirées des pré-tests sont sans appel : 
-
--procédé beaucoup trop long pour une expérimentation avec 736 pots (entre 10 et 20mintes par pot pour isoler les racines)
-
--impossibilité d’isoler les racines de chacune des espèces séparément
-
--déchirements au niveau des radicelles risquant d’induire des biais dans les mesures de biomasse racinaire
-
-Bref, le design de notre expérimentation ne nous permettra malheureusement pas de mesurer la biomasse racinaire ! Pour une prochaine expérimentation peut-être 😊
-
-
-
 ### Les mesures dont nous aurons besoin :
 
 Pour tester ce cadre d'hypothèses, nous aurons besoin de connaître pour 2 (groupes d')espèces A et B :
@@ -115,6 +65,49 @@ Pour tester ce cadre d'hypothèses, nous aurons besoin de connaître pour 2 (gro
 Nous avons souhaité mesurer le comportement de chaque espèce individuellement, mise en relation avec le groupe d'espèce dont elle ne fait pas partie. Par exemple : *Plantago lanceolata* est une subordonnée, elle sera donc mise en interaction avec les dominantes.
 
 Si on fait quelques répétitions, on arrive vite à un grand nombre de pots : 736 pour être exact !
+
+# Journal de bord de l'expérimentation
+
+### Du 2 mars au 19 mai: quelques tests préliminaires
+
+Pour mieux choisir les modalités des mésocosmes et des mesures que l'on peut effectuer, nous avons effectué quelques pré-tests en chambre de germination.
+
+**Choix du gradient de stress** 
+
+Nous avons mis à germer les espèces dans 8 types de substrats différents :
+Allant du substrat 1, le moins fertile et le moins rétenteur en eau avec 1:9 de terreau, 4.5:9 de sable et 4.5:9 de graviers; jusqu’au substrat 9, le plus fertile et le plus rétenteur en eau avec 8:9 de terreau, 0.5:9 de sable et 0.5:9 de graviers.
+
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/pretest2_750.jpg)
+
+Après avoir semé, arrosé, mis au germinateur et obtenu une croissance suffisante, nous avons récolté la biomasse aérienne.
+
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/images_pretest_750.jpg)
+
+*Résultats du test préliminaire*
+
+Les mesures de la biomasse aérienne montrent que les espèces sont en mesure de croître dans tous les types de substrat. Ensuite, ils semblent qu'effectivement les substrats avec une plus forte proportion de terreau sont plus favorables à la croissance des 6 espèces étudiées.
+Nous avonc donc choisi les substrats 3 et 8 pour notre gradient de stress final: deux types de sols dans lesquels les espèces peuvent se développer mais qui sont suffisamment distincts pour induire des réponses potentiellement différentes chez les espèces étudiées.
+
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/result_prem_biomasse_750.png)
+
+**Choix des traits mesurés**
+
+Si la plupart des études sur le sujet s’intéressent principalement aux traits aériens, certaines se penchent également sur les manifestations des effets de priorité au niveau racinaire et mettent en évidence que la biomasse souterraine est significativement affectée (cf les articles suivants : [Weidlich et al., 2017](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12829?casa_token=kc3yBdODZggAAAAA%3AEcz2r4sKcmmT2esZP2lm53gz_9m5ftFgSNThObu7t2ewz_bHgwVCki4J2iXdMsPyxkeeZrs5gut4ZV4NaQ), [Hess et al., 2022](https://reader.elsevier.com/reader/sd/pii/S1439179122000044?token=3048582DC34D54945B675C976CBBFEE41874DC6625D96E56B3E75B66475E3CD842B671C7E58600B6FD0D20905D3BBEB6&originRegion=eu-west-1&originCreation=20220523165611), [Alonso-Crespo et al., 2022](https://onlinelibrary.wiley.com/doi/full/10.1111/oik.08886))
+
+Aussi, nous avons à notre tour, envisagé de mesurer ces traits racinaires.
+
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/testracine_750.jpg)
+
+
+Malheureusement les conclusions tirées des pré-tests sont sans appel : 
+
+-le procédé est beaucoup trop long pour une expérimentation avec 736 pots (entre 10 et 20 minutes par pot pour isoler les racines). Or il faudrait tout faire sur une période de temps restreinte pour ne pas induire de différences de croissance.
+
+-impossibilité d’isoler les racines de chacune des espèces séparément
+
+-nombreux déchirements au niveau des radicelles risquant d’induire des biais dans les mesures de biomasse racinaire
+
+Bref, le design de notre expérimentation ne nous permettra malheureusement pas de mesurer la biomasse racinaire ! Pour une prochaine expérimentation peut-être 😊
 
 ### Du 16 mars au 13 avril: pesée des graines
 
@@ -136,11 +129,16 @@ Immédiatement après le premier semis, arrosage et protection contre les oiseau
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/semis.png)
 
-### Depuis le 20 avril : On regarde les plantes pousser
+### Depuis le 20 avril : On regarde les plantes pousser !
 
-En essayant de ne pas piéger les voisins dans les filets.. Et en testant des mesures du recouvrement de végétation..
+En essayant de ne pas piéger les voisins dans les filets... Et en testant des mesures du recouvrement de végétation...
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/suivi1.png)
+
+Nous avons réalisé plusieur essais de passage de drône (avec ou sans ailes) jusquà obtenir des résultats satisfaisant en le faisant finalement voler à 6m au dessus de nos pots. Voici le résultat obtenues à partir des images prises par le drone :
+
+![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/nuage_point_gps_750.jjpg)
+
 
 *Suite(s) au prochain(s) épisode(s)*
 
