@@ -93,7 +93,7 @@ En essayant de ne pas piéger les voisins dans les filets.. Et en testant des me
 
 ![](https://raw.githubusercontent.com/RenaudJau/PEExp/main/suivi1.png)
 
-*Suite(s) au prochain(s) épisode(s)*
+*Suite au prochain épisode*
 
 
 
